@@ -1,0 +1,12 @@
+# окружение и служебные каталоги
+.venv/
+.jupyter/
+.mplconfig/
+.preview/
+.scratch/
+.tmp*/
+__pycache__/
+*.pyc
+
+# кэш исполнения ноутбуков
+.ipynb_checkpoints/
